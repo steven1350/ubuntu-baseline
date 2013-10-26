@@ -30,4 +30,4 @@ TODO
 MIT License (<http://mit-license.org>)
 
 # Author
-Copyright © 2013 MJ Suhonos (<mjsuhonos@ryerson.ca>)
+Copyright © 2013 MJ Suhonos (<mj@suhonos.ca>)
